@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Instagram Clone Desktop" width="50%" src=".github/instaclone_desktop.png">&nbsp;&nbsp;<img alt="Instagram Clone Mobile" width="50%" src=".github/instaclone_mobile.png">
+  <img alt="Instagram Clone Desktop" width="50%" src=".github/instaclone_desktop.png">&nbsp;&nbsp;<img alt="Instagram Clone Mobile" width="25%" src=".github/instaclone_mobile.png">
 </p>
 
 ---
