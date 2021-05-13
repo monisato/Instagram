@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Instagram Clone Desktop" src=".github/instaclone_desktop.png">&nbsp;&nbsp;<img alt="Instagram Clone Mobile" src=".github/instaclone_mobile.png">
+  <img alt="Instagram Clone Desktop" width="50%" src=".github/instaclone_desktop.png">&nbsp;&nbsp;<img alt="Instagram Clone Mobile" width="50%" src=".github/instaclone_mobile.png">
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 💻 Project Description
 
-App developed to help you to remember to take care and water your plants.
+Creating a instagram landing page as a learning and training experience with HTML and CSS.
 
 ---
 
